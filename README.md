@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <b>Software Developer · Trujillo, Perú</b>
+  <b>Software Developer · Trujillo, peru🇵🇪</b>
   <p>Construyo sistemas — ERPs • Arquitecturas backend • Apps móviles.</p>
   
   <p>
