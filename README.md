@@ -40,3 +40,6 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/efrainsiccha/efrainsiccha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
