@@ -41,5 +41,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=efrainsiccha&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Efraín" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efrainsiccha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/efrainsiccha)
+
 </div>
