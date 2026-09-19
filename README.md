@@ -4,10 +4,16 @@
 
 <br />
 
-**Software Developer · Trujillo, PE 🇵🇪**  
-Construyo sistemas — ERPs • Arquitecturas backend • Apps móviles.
-
-[GitHub](https://github.com/efrainsiccha) • [LinkedIn](https://linkedin.com/in/efrainsicchacastro) • [Email](mailto:tu-correo-real@gmail.com)
+<div align="center">
+  <b>Software Developer · Trujillo, PE 🇵🇪</b>
+  <p>Construyo sistemas — ERPs • Arquitecturas backend • Apps móviles.</p>
+  
+  <p>
+    <a href="https://github.com/efrainsiccha">GitHub</a> • 
+    <a href="https://linkedin.com/in/efrainsicchacastro">LinkedIn</a> • 
+    <a href="mailto:efrainsicchasql@gmail.com">Email</a>
+  </p>
+</div>
 
 ---
 
