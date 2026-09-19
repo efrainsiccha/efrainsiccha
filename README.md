@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <b>Software Developer · Perú</b>
+  <b>Software Developer · Trujillo, Perú</b>
   <p>Construyo sistemas — ERPs • Arquitecturas backend • Apps móviles.</p>
   
   <p>
@@ -40,8 +40,3 @@
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efrainsiccha&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/efrainsiccha)
-
-</div>
