@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Recuerda arrastrar tu banner diseñado en Canva aquí cuando estés en GitHub -->
-  <img src="<img width="1984" height="793" alt="github-fondo" src="https://github.com/user-attachments/assets/61c42d25-5606-49ed-bf80-543131dae8ad" />
+  <img src=<img width="1984" height="793" alt="github-fondo" src="https://github.com/user-attachments/assets/61c42d25-5606-49ed-bf80-543131dae8ad" />
  width="100%" alt="Efraín Siccha Banner" />
 </div>
 
