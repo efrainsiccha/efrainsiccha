@@ -38,32 +38,6 @@
 | **Flotify** | Sistema web multiempresa de control logístico y de flota. Automatiza el prorrateo dinámico de combustible, gestión de maestranza y digitalización de tickets mediante IA (OCR). | `PHP` `Laravel` `Filament` `MySQL` |
 | **StickyTok** | Aplicación móvil y servicio backend para extraer contenido multimedia de TikTok y exportarlo a WhatsApp. | `Flutter` `Node.js` `Express` |
 
-<div align="center">
-  <h3>Proyects</h3>
-  
-  <table width="100%" border="0">
-    <tr>
-      <td width="50%" align="center">
-        <b>🏢 Nebula ERP (Corporación Copper)</b><br><br>
-        ERP corporativo multiempresa en desarrollo continuo con arquitectura modular, enfocado en automatización y escalabilidad.<br><br>
-        <code>PHP</code> <code>Laravel</code> <code>Filament</code> <code>MySQL</code>
-      </td>
-      <td width="50%" align="center">
-        <b>🚛 Flotify (Lencar S.A.C)</b><br><br>
-        Sistema web multiempresa logístico y de flota. Automatiza prorrateo, maestranza y digitalización de tickets con IA (OCR).<br><br>
-        <code>PHP</code> <code>Laravel</code> <code>Filament</code> <code>MySQL</code>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br><b>📱 StickyTok (En desarrollo)</b><br><br>
-        Aplicación móvil y servicio backend para extraer contenido multimedia de TikTok y exportarlo a WhatsApp.<br><br>
-        <code>Flutter</code> <code>Node.js</code> <code>Express</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <div align="center">
