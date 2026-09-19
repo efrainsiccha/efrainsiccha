@@ -41,5 +41,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/efrainsiccha/efrainsiccha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=>_root@efrain:~%24+nmap+-sV+-O+192.168.1.0%2F24;>_root@efrain:~%24+searchsploit+laravel;>_Explorando+redes+con+Shodan+y+Google+Dorks...;>_Desplegando+arquitecturas+backend+seguras..." alt="Terminal Hacker" />
 </div>
