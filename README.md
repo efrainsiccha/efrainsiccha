@@ -41,5 +41,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=>_+php+artisan+make:filament-resource;>_+flutter+build+apk+--release;>_+npm+run+dev;>_+git+commit+-m+%22feat:+deploy+Nebula+ERP%22;>_+Código,+lógica+y+desarrollo_..." alt="Developer Terminal" />
+
+![Developer Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=%3E_+php+artisan+make:filament-resource;%3E_+flutter+build+apk+--release;%3E_+npm+run+dev;%3E_+git+commit+-m+%22feat:+deploy+Nebula+ERP%22;%3E_+Codigo,+logica+y+desarrollo_...)
+
 </div>
